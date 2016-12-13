@@ -1,0 +1,17 @@
+{
+  "name": "graphql-example",
+  "version": "0.0.1",
+  "description": "A simple GraphQL example app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Mark Headd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2",
+    "request": "^2.79.0"
+  }
+}
