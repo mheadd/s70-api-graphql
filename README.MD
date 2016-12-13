@@ -1,6 +1,6 @@
 # GraphQL Support for Schedule 70 API
 
-A simple GraphQL wrapper for the [Schedule 70 REST API](https://github.com/mheadd/s70-api).
+A simple [GraphQL](http://graphql.org/) wrapper for the [Schedule 70 REST API](https://github.com/mheadd/s70-api).
 
 ## Set up
 
